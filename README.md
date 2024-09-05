@@ -9,7 +9,7 @@ Audio samples are available on the [page](https://shawnpi233.github.io/publicati
 Arxiv paper can be found here [https://arxiv.org/abs/2406.05692](https://arxiv.org/abs/2406.05692).
 
 ## SPA-SVC Architecture
-![SPA-SVC Architecture](figs/architecture.png)
+![SPA-SVC Architecture](architecture.png)
 
 ## (0) Environment Setups
 
